@@ -1,5 +1,3 @@
-import {titleCase} from "title-case";
-
 let studentName = "Hamdaan khan"
 
 // Upper Case
